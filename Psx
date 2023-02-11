@@ -1,4 +1,4 @@
-_G.Username = tcsmpt
+_G.Username = "tcsmpt"
 loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXScripts/main/AutoFarm.lua", true))()
 
 
